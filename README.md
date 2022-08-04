@@ -19,13 +19,27 @@
 	List
 	Dictionary
 	Sets
-# Python Learning 2
+# PYTHON LEARNING-2
  # include Condition Control Statments
  	If Statments
 	If-Else Statments
 	If-Else with Tuples
 	If-Else with Lists
 	If-Else with Dictionaries
+# PYTHON LEARNING-3
+ # include Condition Control Statments
+ 	If Statments
+	If-Else Statments
+	If-Else with Tuples
+	If-Else with Lists
+	If-Else with Dictionaries
+ # include Flow Control (Loops)
+ 	For Loop with strings
+	For Loop with Datastructure (Tuple, List, Dictionaries, Sets)
+	For Loop with Range functions
+	While loop Implmentation
+	Functions Implmentation
+	Lambda Functions
  	
 	
 			
